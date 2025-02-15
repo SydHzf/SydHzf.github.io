@@ -1,6 +1,4 @@
-# Hi there, I'm Syed Huzaifa Ali! 👋
-
-![Your Image](https://www.canva.com/design/DAFnahDRj7M/JKRYTAbaWvSsbpR5IpV_Bg/view)
+![cover_img](asset/img/cover-pic.png)
 
 Welcome to my GitHub profile! I'm excited to share my projects and contributions with you. Here's a bit about me:
 

@@ -1,5 +1,5 @@
 minima:
-  skin: dark
+  skin: solarized-dark
 
 title: Home
 
@@ -7,7 +7,7 @@ author:
   name: Syed Huzaifa Ali
   email: huzaifa.ali532@gmail.com
 
-show_excerpts: false
+show_excerpts: True
 
 remote_theme: jekyll/minima
 

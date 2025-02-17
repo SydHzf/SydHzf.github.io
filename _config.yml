@@ -1,8 +1,19 @@
-# title: Hi, It's Huzaifa
-# logo: asset/img/cover-pic.png
-# show_downloads: true
-remote_theme: jekyll/minima
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 minima:
   skin: dark
+
+title: Home
+
+author:
+  name: Syed Huzaifa Ali
+  email: huzaifa.ali532@gmail.com
+
+show_excerpts: false
+
+remote_theme: jekyll/minima
+
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+# header_pages:
+#   - about.md
+  

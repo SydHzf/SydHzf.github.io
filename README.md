@@ -1,4 +1,4 @@
-![cover_img](asset/img/cover-pic.png)
+![cover_img](asset/img/cover-pic2.png)
 
 Welcome to my GitHub profile! I'm excited to share my projects and contributions with you. Here's a bit about me:
 
